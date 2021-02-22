@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 www.dn.se##DIV[class="ad ad--module"]
 www.dn.se##DIV[class="ad bam-ad-slot outsider-ad__sticky"]
 edition.cnn.com##DIV[id="ad-wrap"]
