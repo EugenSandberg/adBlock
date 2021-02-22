@@ -16,3 +16,6 @@ www.bbc.com##DIV[class*="advert"]
 www.svd.se##DIV[class="Ad Ad--panorama"]
 www.svd.se##DIV[class=" AdWrapper"]
 www.aftonbladet.se##DIV[id*="abAdArea"]
+www.expressen.se##DIV[class*="teaser--native"]
+
+
