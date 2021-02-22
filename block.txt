@@ -1,4 +1,11 @@
 [Adblock Plus 2.0]
+! Title: Eugenfilter
+! Expires: 1 days (update frequency)
+! Version: 1
+! Last modified: 22 Feb 2021
+! Description: Custom filters
+!-------------------------------------------------------------------------------
+
 www.dn.se##DIV[class="ad ad--module"]
 www.dn.se##DIV[class="ad bam-ad-slot outsider-ad__sticky"]
 edition.cnn.com##DIV[id="ad-wrap"]
