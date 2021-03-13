@@ -20,3 +20,4 @@ www.aftonbladet.se##DIV[class*="HLf1C"]
 www.expressen.se##DIV[class*="teaser--native"]
 www.washingtonpost.com##wp-ad
 ##DIV[class*="ad-component"]
+www.mitti.se##DIV[class="ad"]
